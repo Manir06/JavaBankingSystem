@@ -1,4 +1,4 @@
-# 🏦 Java Banking System (OnlineGDB Version)
+# 🏦 Java Banking System 
 
 A simple **Java command-line banking application** built using Object-Oriented Programming principles. Designed to demonstrate account management features like deposit, withdrawal, and balance inquiry — all running in-memory (no database or file persistence), ideal for interview demos or quick prototypes.
 
